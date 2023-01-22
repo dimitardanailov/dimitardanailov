@@ -16,15 +16,15 @@
   - iOS Developer - 6 months
 
 ### Certificates
-January 2023 - [Introduction to Mobile Development](https://coursera.org/share/2557b7128d988426768e32870a58a085)
-October 2022 - [Project Initiation: Starting a Successful Project.Authorized by Google](https://coursera.org/share/4bde15f65b72b7ea5624bed1f3ebebd3)
-September 2022 - [Smart Contracts. Authorized by University at Buffalo](https://coursera.org/share/a0776edc92595b61be8f9d49ebe535f0)
-September 2022 - [Blockchain Basics. Authorized by University at Buffalo](https://coursera.org/share/d8f9cf3cdfab46a79590f1c173d8336a)
-September 2022 - [Containerized Applications on AWS. Authorized by AWS;](https://coursera.org/share/fddab19f00937c844b2cdf357102a365)
-August 2022 - [Foundations of Project Management. Authorized by Google;](https://coursera.org/share/523871c5f5c5819beed1a81f64986c6f)
-April 2019 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;](https://www.coursera.org/account/accomplishments/verify/D4RCDH33T3C3)
-March 2016 - [M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;](https://university.mongodb.com/course_completion/9ca5d4d6826747d7a7a7875914a1f51e)
-January 2016 - [Hadoop Platform and Application Framework. Authorized by University of California;](https://www.coursera.org/account/accomplishments/verify/LYRPNBF53X55)
+- January 2023 - [Introduction to Mobile Development](https://coursera.org/share/2557b7128d988426768e32870a58a085)
+- October 2022 - [Project Initiation: Starting a Successful Project.Authorized by Google](https://coursera.org/share/4bde15f65b72b7ea5624bed1f3ebebd3)
+- September 2022 - [Smart Contracts. Authorized by University at Buffalo](https://coursera.org/share/a0776edc92595b61be8f9d49ebe535f0)
+- September 2022 - [Blockchain Basics. Authorized by University at Buffalo](https://coursera.org/share/d8f9cf3cdfab46a79590f1c173d8336a)
+- September 2022 - [Containerized Applications on AWS. Authorized by AWS;](https://coursera.org/share/fddab19f00937c844b2cdf357102a365)
+- August 2022 - [Foundations of Project Management. Authorized by Google;](https://coursera.org/share/523871c5f5c5819beed1a81f64986c6f)
+- April 2019 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;](https://www.coursera.org/account/accomplishments/verify/D4RCDH33T3C3)
+- March 2016 - [M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;](https://university.mongodb.com/course_completion/9ca5d4d6826747d7a7a7875914a1f51e)
+- January 2016 - [Hadoop Platform and Application Framework. Authorized by University of California;](https://www.coursera.org/account/accomplishments/verify/LYRPNBF53X55)
 
 ### Technical Skills
 
