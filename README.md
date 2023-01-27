@@ -16,6 +16,7 @@
   - iOS Developer - 6 months
 
 ### Certificates
+- January 2023 - [The Ultimate React Native Series: Fundamentals](https://codewithmosh.com/courses/887220/certificate)
 - January 2023 - [Introduction to Mobile Development](https://coursera.org/share/2557b7128d988426768e32870a58a085)
 - October 2022 - [Project Initiation: Starting a Successful Project.Authorized by Google](https://coursera.org/share/4bde15f65b72b7ea5624bed1f3ebebd3)
 - September 2022 - [Smart Contracts. Authorized by University at Buffalo](https://coursera.org/share/a0776edc92595b61be8f9d49ebe535f0)
