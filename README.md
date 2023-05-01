@@ -1,5 +1,5 @@
 ### Accomplishments
-- [Top 4% user in Stack Overflow. (My points are 9400+)](https://stackoverflow.com/users/609707/d-danailov)
+- [Top 4% user in Stack Overflow. (My points are 9500+)](https://stackoverflow.com/users/609707/d-danailov)
 - Management and Leadership skills - 10+ years. Positions:
   - Fullstack JS DevOps Architect;
   - Blockchain Staff Engineer;
