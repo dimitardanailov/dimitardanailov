@@ -20,11 +20,10 @@
 
 ### Technical Skills
 
-- 🚣 Blockchain Developer with experience in the several Layer 1 provider lie Algorand, Cosmos, Etherium, Binance Smart Chain, Elrond. Javascript: etherjs, web3js. Smart Contracts: Solidity;
+- 🚣 Blockchain experience with Etherium, Cosmos, Algorand, Polygon, Binance Smart Chain, Elrond. Javascript frameworks: etherjs and web3js. Smart Contracts: Solidity;
 - 🗳 Nodejs: Express.js, Nest.js, Socket.io, Hapi.js;
-- 🔥 React and Monorepo, nextjs, Redux, State Machines, Immer, React Testing library, Custom Elements v1, D3js, Safari Push notifications, Material UI, Styled Components, Polymer, Draftjs;
+- 🔥 React, Nextjs, Redux, Xstate(State Machines), Immerjs, React Testing library, D3js, Safari Push Notifications, MUI, Styled components, Polymer, Draftjs; 
 - 🛡 Webpack, Gulp, Lerna, Bash Script, Docker and Vagrant;
-- 🚓 Web technologies (HTML5, CSS3, ES7+, a11y);
 - ⛅️ Azure, AWS, AWS Lambda functions and Serverless, Google Cloud and Kubernetes, Experience with monitoring tools: Kusto Query language;
 - 💥 Typescript, Flow, Prettier;
 - 🍇 Feature Flags, Microservices, Fitness functions;
