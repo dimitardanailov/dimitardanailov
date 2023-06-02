@@ -23,7 +23,7 @@
 - 🚣 Blockchain experience with Etherium, Cosmos, Algorand, Polygon, Binance Smart Chain, Elrond. Javascript frameworks: etherjs and web3js. Smart Contracts: Solidity;
 - 🗳 Nodejs: Express.js, Nest.js, Socket.io, Hapi.js;
 - 🔥 React, Nextjs, Redux, Xstate(State Machines), Immerjs, React Testing library, D3js, Safari Push Notifications, MUI, Styled components, Polymer, Draftjs; 
-- 🛡 Webpack, Gulp, Lerna, Bash Script, Docker and Vagrant;
+- 🛡 DevOps: Docker, Kubernetes, Terraform;
 - ⛅️ Azure, AWS, AWS Lambda functions and Serverless, Google Cloud and Kubernetes, Experience with monitoring tools: Kusto Query language;
 - 💥 Typescript, Flow, Prettier;
 - 🍇 Feature Flags, Microservices, Fitness functions;
