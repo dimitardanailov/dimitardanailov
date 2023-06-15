@@ -1,22 +1,19 @@
 ### Accomplishments
 
 - [Top 4% user in Stack Overflow. (My points are 9500+)](https://stackoverflow.com/users/609707/d-danailov)
-- Management and Leadership skills - 11+ years. Positions:
-  - Blockchain Architect;
-  - Fullstack JS DevOps Architect;
-  - Blockchain Staff Engineer;
-  - Software Engineering Manager;
-  - Software Architect;
-  - Team Leader
-- Backend Developer - 10+ years
-  - Nodejs Developer - 8+ years
-  - .Net Developer - 2+ years
-- Full Stack Developer and Front-End Developer - 10+ years. Frameworks: React and React Native
-- Blockchain Architect - 3 months (Siemens Energy, Hyperledger Besu)
-- Blockchain Developer - 1.5 year
-- Mobile Developer - 2+ years
-  - Android Developer - 2 years
-  - iOS Developer - 6 months
+- Management and Leadership skills: 10+ years;
+  - Blockchain Architect, Siemens Energy: 2023 - present (Team size: 15+);
+  - Fullstack JS DevOps Architect, The international red cross: 2022 - 2023; (Team size: 8);
+  - Blockchain Staff Engineer, Propine.com: 2021 - 2022; (Team size: 20+);
+  - Software Engineering Manager, Elephant stocks: 2021 - 2022; (Team size: 20+);
+  - Full Stack Software Architect: 2015 - 2020; (Team size: 100+);
+  - CTO: 2014 - 2015; (Team size: 30+);
+  - Team Leader: 2011 - 2014; (Team size: 20+);
+- Full Stack Developer and Front-End Developer - 10+ years;
+- Nodejs Developer - 10+ years;
+- Cloud Developer (AWS, Azure, Google Cloud) - 10+years;
+- Mobile Developer (Android, iOS, React Native) - 2+ years;
+- DevOps and Linux Administration and Linux - 15 years;
 
 ### Technical Skills
 
