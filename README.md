@@ -42,3 +42,7 @@
 - April 2019 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;](https://www.coursera.org/account/accomplishments/verify/D4RCDH33T3C3)
 - March 2016 - [M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;](https://university.mongodb.com/course_completion/9ca5d4d6826747d7a7a7875914a1f51e)
 - January 2016 - [Hadoop Platform and Application Framework. Authorized by University of California;](https://www.coursera.org/account/accomplishments/verify/LYRPNBF53X55)
+
+### Stack Overflow & Stack Exchange Stats
+
+<a href="https://stackoverflow.com/users/609707/d-danailov"><img src="https://stackoverflow.com/users/flair/609707.png" width="208" height="58" alt="profile for d.danailov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for d.danailov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
