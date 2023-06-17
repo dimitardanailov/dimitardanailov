@@ -46,3 +46,7 @@
 ### Stack Overflow & Stack Exchange Stats
 
 <a href="https://stackoverflow.com/users/609707/d-danailov"><img src="https://stackoverflow.com/users/flair/609707.png" width="208" height="58" alt="profile for d.danailov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for d.danailov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
+#### Github Stats 📊
+
+[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=dimitardanailov)](https://github.com/anuraghazra/github-readme-stats)
