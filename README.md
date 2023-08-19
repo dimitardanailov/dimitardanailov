@@ -1,30 +1,37 @@
 ### Accomplishments
 
-- [Top 4% user in Stack Overflow. (My points are 9500+)](https://stackoverflow.com/users/609707/d-danailov)
+- 13+ years experience;
 - Management and Leadership skills: 10+ years;
-  - Blockchain Architect, Siemens Energy: 2023 - present (Team size: 15+);
-  - Fullstack JS DevOps Architect, The international red cross: 2022 - 2023; (Team size: 8);
-  - Blockchain Staff Engineer, Propine.com: 2021 - 2022; (Team size: 20+);
-  - Software Engineering Manager, Elephant stocks: 2021 - 2022; (Team size: 20+);
-  - Full Stack Software Architect: 2015 - 2020; (Team size: 100+);
-  - CTO: 2014 - 2015; (Team size: 30+);
-  - Team Leader: 2011 - 2014; (Team size: 20+);
-- Full Stack Developer and Front-End Developer - 10+ years;
-- Nodejs Developer - 10+ years;
-- Cloud Developer (AWS, Azure, Google Cloud) - 10+years;
-- Mobile Developer (Android, iOS, React Native) - 2+ years;
-- DevOps and Linux Administration and Linux - 15 years;
+- Ex - contractor in Siemens and The international Red cross;
+- Top 4% users in Stack Overflow;
+- I've been working with remote teams since 2016;
+- International b2b contractor since 2019;
 
-### Technical Skills
+Portfolio includes clients located in 
+- USA 🇺🇸
+- Singapore 🇸🇬
+- Israel 🇮🇱
+- Germany 🇩🇪
+- Great Britain 🇬🇧
+- Switzerland 🇨🇭
+- United Arab Emirates 🇦🇪
+- Indonesia 🇮🇩
 
-- 🚣 Blockchain experience with Etherium, Cosmos, Algorand, Polygon, Binance Smart Chain, Elrond. Javascript frameworks: etherjs and web3js. Smart Contracts: Solidity;
-- 🗳 Nodejs: Express.js, Nest.js, Socket.io, Hapi.js, Typescript;
-- 🔥 React and React Native: Nextjs, Redux, Xstate(State Machines), Immerjs, React Testing library, D3js, Safari Push Notifications, MUI, Styled components, Draftjs; 
-- 🛡 DevOps: Docker, Kubernetes, Terraform;
-- ⛅️ Cloud: AWS, Azure, Google Cloud;
-- 🍇 System Design: Microservices;
-- 🍸 Databases: MongoDB (Mongoose), Postgresql, Firebase, SQlite, MySQL, MSSQL, Hadoop;
-- 🎧 Mobile: Android, Swift, Objective - C;
+### Why me❓
+
+- Deep understanding for upcoming technologies to solve complex business problems;
+- Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;
+- Ability to use different design patterns like: Clean Architecture, Cloud Native Principle, CAP Theorem, Coupling and cohesion, DRY (Don't repeat yourself), AHA (Avoid Hasty Abstractions), SOLID, etc; 
+- My knowledge spreads across multiple industries, and it is not limited to technology. The additional bonus for you is my economics degree. 
+- High - skilled engineer rated by c-level management, product and project managers, developers, etc.;
+- Certified Engineer by Google, Meta, AWS;
+
+### Expertise:
+- Javascript: Typescript, ReactJS, Nextjs, Nestjs, Expressjs;
+- AWS: ECS,  EKS, ES3, Servless Development;
+- DevOps: Docker, Kubernetes, Linux, Terraform;
+- Excellent English communication, both written and verbal;
+- Blockchain: etherjs, web3js, ethereum, algorand and cosmos;
 
 ### Specelization
 
