@@ -56,4 +56,4 @@ Portfolio includes clients located in
 
 #### Github Stats 📊
 
-[![Patricks's github stats](https://github-readme-stats.vercel.app/api?username=dimitardanailov)](https://github.com/anuraghazra/github-readme-stats)
+[![Danailovs's github stats](https://github-readme-stats.vercel.app/api?username=dimitardanailov)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitardanailov&layout=compact&theme=buefy&hide_border=true" /></a> 
