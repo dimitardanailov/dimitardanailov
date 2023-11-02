@@ -35,7 +35,7 @@ Portfolio includes clients located in
 
 ### Specelization
 
-- March 2023 - [The Ultimate React Native Series: Fundamentals](<https://github.com/dimitardanailov/ddanailov/blob/master/certificates/Decentralized%20Finance%20(DeFi)-%20The%20Future%20of%20Finance.pdf>)
+- March 2023 - [Decentralized Finance (DeFi)- The Future of Finance](<https://github.com/dimitardanailov/ddanailov/blob/master/certificates/Decentralized%20Finance%20(DeFi)-%20The%20Future%20of%20Finance.pdf>)
 
 ### Certificates
 
