@@ -26,12 +26,14 @@ Portfolio includes clients located in
 - High - skilled engineer rated by c-level management, product and project managers, developers, etc.;
 - Certified Engineer by Google, Meta, AWS;
 
-### Expertise:
-- Javascript: Typescript, ReactJS, Nextjs, Nestjs, Expressjs;
-- AWS: ECS,  EKS, ES3, Servless Development;
-- DevOps: Docker, Kubernetes, Linux, Terraform;
-- Excellent English communication, both written and verbal;
-- Blockchain: etherjs, web3js, ethereum, algorand and cosmos;
+### Skills:
+- Nodejs: Typescript, Nestjs, Express, Hapi, etherjs, web3js, zksync-ethers;
+- React: Typescript, Nextjs, Vercel, Redux, GraphQL, React Native;
+- Cloud Development: AWS, Azure, Google Cloud;
+- Blockchain EVM / Etherium: Solidity, Hardhat, Foundry;
+- Blockchain Custody Wallet: Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
+- Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB, OpenSearch, Elastic Search;
+- Containers and orchestration: Docker, Kubernetes, OpenShift, Vagrant, TerraForm;
 
 ### Specelization
 
