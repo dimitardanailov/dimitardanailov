@@ -1,11 +1,14 @@
 ### Accomplishments
 
-- 14+ years experience;
-- Management and Leadership skills: 10+ years;
-- Ex - contractor in Siemens and The international Red cross;
-- Top 4% users in Stack Overflow;
-- I've been working with remote teams since 2016;
-- International b2b contractor since 2019;
+- 14+ years experience as a full stack engineer, architect and team lead;
+- Leadership roles: 10+ years;
+- Ex - contractor Siemens and The international Red cross;
+- ex-CTO - Experience with management more than of than 5+ small teams;
+- 2 x Staff Engineer / Engineering manager;
+- 4 x Software Architect / Tech - Lead;
+- Top 4% user in Stack Overflow;
+- Contract offer by The European Commission based in Brussels. Contract type: Belguim (On-site); Position: Application Architect;
+- Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
 
 Portfolio includes clients located in 
 - USA 🇺🇸
