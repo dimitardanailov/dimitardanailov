@@ -1,7 +1,7 @@
 ### Accomplishments
 
 - 14+ years experience as a full stack engineer, architect and team lead;
-- Leadership roles: 10+ years;
+- Leadership roles: 12+ years;
 - Ex - contractor Siemens and The international Red cross;
 - ex-CTO - Experience with management more than of than 5+ small teams;
 - 2 x Staff Engineer / Engineering manager;
@@ -10,15 +10,21 @@
 - Contract offer by The European Commission based in Brussels. Contract type: Belguim (On-site); Position: Application Architect;
 - Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
 
-Portfolio includes clients located in 
-- USA 🇺🇸
-- Singapore 🇸🇬
-- Israel 🇮🇱
-- Germany 🇩🇪
-- Great Britain 🇬🇧
-- Switzerland 🇨🇭
-- United Arab Emirates 🇦🇪
-- Indonesia 🇮🇩
+Remote B2B Contractor (2018 - present)
+- React Developer, The Organized Crime and Corruption Reporting Project: Jul - Oct 2024 (Team size: 3);
+- Full Stack Engineer and Tech Lead, Collinson group: Aug, 2023 - Mar, 2024 (Team size: 40+);
+- Blockchain Architect, Siemens Energy: Mar - Jun 2023 (Team size: 15+);
+- Fullstack Javascript DevOps Architect, The International Red Cross: Oct, 2022 - Feb, 2023 (Team size: 8+);
+- BlockChain Staff Engineer, Propine.com: Sep 2021 - Aug 2022 (Team size: 20+);
+- Software Engineering Manager, Elephantstock.com: Sep, 2020 - June, 2021 (Team size: 10+);
+- Software Architect, Getcraft.com: June, 2019 - July, 2020 (Team size: 10+);
+
+On site employment: 2010 - 2018
+- Technical Architect, LiveArea, a Merkle Company was acquired by Merkle.: 2017 - 2018 (Team size: 20+);
+- Full Stack Software Architect, Mentormate: 2015 - 2017 (Team size: 100+);
+- Wollow Soft:
+  - CTO, Wollow Soft: 2014 - 2015 (Team size: 25+);
+  - Developer and Team Lead, Wollow Soft: 2010 - 2014 (Team size: 25+);
 
 ### Why me❓
 
@@ -30,13 +36,9 @@ Portfolio includes clients located in
 - Certified Engineer by Google, Meta, AWS;
 
 ### Skills:
-- Nodejs: Typescript, Nestjs, Express, Hapi, etherjs, web3js, zksync-ethers;
-- React: Typescript, Nextjs, Vercel, Redux, GraphQL, React Native;
-- Cloud Development: AWS, Azure, Google Cloud;
-- Blockchain EVM / Etherium: Solidity, Hardhat, Foundry;
-- Blockchain Custody Wallet: Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
-- Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB, OpenSearch, Elastic Search;
-- Containers and orchestration: Docker, Kubernetes, OpenShift, Vagrant, TerraForm;
+- Full Stack Developer: Nodejs, React, Typescript, Nestjs, Express, Hapi, etherjs, web3js, GraphQL, REST API, Nextjs, Vercel, Vitejs, Docker, Kubernetes, d3js, sigmajs, React Native, Redux, Serverless, AWS, Azure, Google Cloud, TerraForm, PostgreSQL, NoSQL, MongoDB, MySQL, OpenSearch, Datadog, Elastic Search;
+Blockchain: Solidity, Hardhat, Foundry, Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
+- Machine Learning / Artificial Intelligence: Vercel AI SDK, Gemini Pro, ChatGPT, LLM, Generative AI;             
 
 ### Specelization
 
