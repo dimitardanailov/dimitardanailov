@@ -1,7 +1,7 @@
 ### Accomplishments
 
-- 14+ years experience as a full stack engineer, architect and team lead;
-- Leadership roles: 12+ years;
+- 15+ years experience as a full stack engineer, architect and team lead;
+- Leadership roles: 13+ years;
 - Ex - contractor Siemens and The international Red cross;
 - ex-CTO - Experience with management more than of than 5+ small teams;
 - 2 x Staff Engineer / Engineering manager;
