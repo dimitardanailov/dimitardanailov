@@ -1,16 +1,12 @@
 ### Accomplishments
 
-- 15+ years experience as a full stack engineer, architect and team lead;
-- Leadership roles: 13+ years;
-- Ex - contractor Siemens and The international Red cross;
-- ex-CTO - Experience with management more than of than 5+ small teams;
-- 2 x Staff Engineer / Engineering manager;
-- 4 x Software Architect / Tech - Lead;
-- Top 4% user in Stack Overflow;
-- Contract offer by The European Commission based in Brussels. Contract type: Belguim (On-site); Position: Application Architect;
-- Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
+- Full stack engineer: 15+ years, People management or technical leadership responsibilities: 12 years, Remote B2B contractor: 6 years;
+- Chief Technology Officer at outsourcing company. Duration: 18 months; Company size: 25+ employees;
+- Successfully served as Staff Engineer / Engineering Manager (2x) and Software Architect / Tech Lead (7x), leading teams to improve project delivery times by 30% on average;
+- Ranked in the top 4% of users on Stack Overflow and Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
 
 Remote B2B Contractor (2018 - present)
+- Typescript Full Stack Developer, Fan3: 2024 - Present (Team size: 3);
 - React Developer, The Organized Crime and Corruption Reporting Project: Jul - Oct 2024 (Team size: 3);
 - Full Stack Engineer and Tech Lead, Collinson group: Aug, 2023 - Mar, 2024 (Team size: 40+);
 - Blockchain Architect, Siemens Energy: Mar - Jun 2023 (Team size: 15+);
@@ -36,9 +32,14 @@ On site employment: 2010 - 2018
 - Certified Engineer by Google, Meta, AWS;
 
 ### Skills:
-- Full Stack Developer: Nodejs, React, Typescript, Nestjs, Express, Hapi, etherjs, web3js, GraphQL, REST API, Nextjs, Vercel, Vitejs, Docker, Kubernetes, d3js, sigmajs, React Native, Redux, Serverless, AWS, Azure, Google Cloud, TerraForm, PostgreSQL, NoSQL, MongoDB, MySQL, OpenSearch, Datadog, Elastic Search;
-Blockchain: Solidity, Hardhat, Foundry, Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
-- Machine Learning / Artificial Intelligence: Vercel AI SDK, Gemini Pro, ChatGPT, LLM, Generative AI;             
+- Nodejs: Typescript, Nestjs, Express, Hapi, etherjs, web3js, zksync-ethers;
+- React: Typescript, Nextjs, Vercel, Redux, GraphQL, React Native;
+- Cloud Development: AWS, Azure, Google Cloud and Fireabse;
+- Blockchain EVM / Ethereum: Solidity, Hardhat, Foundry;
+- Blockchain Custody Wallet: Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
+- Machine Learning / Artificial Intelligence: Vercel AI SDK, Gemini Pro, ChatGPT, Large Language Models, Generative AI;
+- Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB, OpenSearch, Elastic Search;
+- Containers and orchestration: Docker, Kubernetes, OpenShift, Vagrant, TerraForm;          
 
 ### Specelization
 
