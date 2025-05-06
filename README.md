@@ -38,7 +38,7 @@ On site employment: 2010 - 2018
 - Blockchain EVM / Ethereum: Solidity, Hardhat, Foundry;
 - Blockchain Custody Wallet: Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
 - Machine Learning / Artificial Intelligence: Vercel AI SDK, Gemini Pro, ChatGPT, Large Language Models, Generative AI;
-- Databases: PostgreSQL, MySQL, MSSQL, NoSQL, MongoDB, OpenSearch, Elastic Search;
+- Databases: PostgreSQL, MySQL, MSSQL, Firestore, NoSQL, MongoDB, OpenSearch, Elastic Search;
 - Containers and orchestration: Docker, Kubernetes, OpenShift, Vagrant, TerraForm;          
 
 ### Specelization
