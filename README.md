@@ -1,6 +1,6 @@
 ### Accomplishments
 
-- Full stack engineer: 15+ years, People management or technical leadership responsibilities: 12 years, Remote B2B contractor: 6 years;
+- Full stack engineer: 15+ years, People management or technical leadership responsibilities: 12 years, Remote B2B contractor: 7 years;
 - Chief Technology Officer at outsourcing company. Duration: 18 months; Company size: 25+ employees;
 - Successfully served as Staff Engineer / Engineering Manager (2x) and Software Architect / Tech Lead (7x), leading teams to improve project delivery times by 30% on average;
 - Ranked in the top 4% of users on Stack Overflow and Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
