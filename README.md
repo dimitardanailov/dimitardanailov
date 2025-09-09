@@ -6,7 +6,7 @@
 - Ranked in the top 4% of users on Stack Overflow and Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
 
 Remote B2B Contractor (2018 - present)
-- Typescript Full Stack Developer, Fan3: 2024 - Present (Team size: 3);
+- Typescript Full Stack Developer, Fan3: 2024 - Present (Team size: 8);
 - React Developer, The Organized Crime and Corruption Reporting Project: Jul - Oct 2024 (Team size: 3);
 - Full Stack Engineer and Tech Lead, Collinson group: Aug, 2023 - Mar, 2024 (Team size: 40+);
 - Blockchain Architect, Siemens Energy: Mar - Jun 2023 (Team size: 15+);
