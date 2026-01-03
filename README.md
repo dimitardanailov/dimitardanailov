@@ -3,8 +3,8 @@
 I don't just write code; I build scalable systems that solve complex business problems. With experience as a CTO and Staff Engineer for organizations like Siemens Energy and The International Red Cross, I bring a level of reliability and strategic thinking that goes beyond standard development.
 
 Why i am a unique asset to your project:
-- **speed to market**: I’ve led teams to improve delivery times by 30% on average;
-- **technical authority**: Ranked in the top 4% on stack overflow, proving mastery of the modern web stack;
+- **Speed to market**: I’ve led teams to improve delivery times by 30% on average;
+- **Technical authority**: Ranked in the top 4% on stack overflow, proving mastery of the modern web stack;
 - **AI & Blockchain specialist**: From carbon tracking for Siemens to AI-powered search for Elephantstock, I implement cutting-edge tech with deterministic results.
 
 **Business-minded engineer**: My economics degree means I understand your ROI, cost-optimization, and market positioning as well as your codebase.
