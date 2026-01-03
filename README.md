@@ -1,68 +1,29 @@
-### Accomplishments
+16+ years of engineering excellence: from startups to global enterprises
 
-- 15+ years as a full-stack engineer, 12+ years in engineering leadership (people & technical), and 7+ years as a remote B2B contractor.
-- Chief Technology Officer at outsourcing company. Duration: 18 months; Company size: 25+ employees;
-- Successfully served as Staff Engineer / Engineering Manager (2x) and Software Architect / Tech Lead (7x), leading teams to improve project delivery times by 30% on average;
-- Ranked in the top 4% of users on Stack Overflow and Open source contributor: [Mozilla foundation](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov) and [@xstate/react](https://github.com/firefox-devtools/debugger/pulls?q=is%3Apr+is%3Aclosed+author%3Adimitardanailov);
+I don't just write code; I build scalable systems that solve complex business problems. With experience as a CTO and Staff Engineer for organizations like Siemens Energy and The International Red Cross, I bring a level of reliability and strategic thinking that goes beyond standard development.
 
-Remote B2B Contractor (2018 - present)
-- Typescript Full Stack Developer, Fan3: 2024 - Present (Team size: 8);
-- React Developer, The Organized Crime and Corruption Reporting Project: Jul - Oct 2024 (Team size: 3);
-- Full Stack Engineer and Tech Lead, Collinson group: Aug, 2023 - Mar, 2024 (Team size: 40+);
-- Blockchain Architect, Siemens Energy: Mar - Jun 2023 (Team size: 15+);
-- Fullstack Javascript DevOps Architect, The International Red Cross: Oct, 2022 - Feb, 2023 (Team size: 8+);
-- BlockChain Staff Engineer, Propine.com: Sep 2021 - Aug 2022 (Team size: 20+);
-- Software Engineering Manager, Elephantstock.com: Sep, 2020 - June, 2021 (Team size: 10+);
-- Software Architect, Getcraft.com: June, 2019 - July, 2020 (Team size: 10+);
+Why i am a unique asset to your project:
+- **speed to market**: I’ve led teams to improve delivery times by 30% on average;
+- **technical authority**: Ranked in the top 4% on stack overflow, proving mastery of the modern web stack;
+- **AI & Blockchain specialist**: From carbon tracking for Siemens to AI-powered search for Elephantstock, I implement cutting-edge tech with deterministic results.
 
-On site employment: 2010 - 2018
-- Technical Architect, LiveArea, a Merkle Company was acquired by Merkle.: 2017 - 2018 (Team size: 20+);
-- Full Stack Software Architect, Mentormate: 2015 - 2017 (Team size: 100+);
-- Wollow Soft:
-  - CTO, Wollow Soft: 2014 - 2015 (Team size: 25+);
-  - Developer and Team Lead, Wollow Soft: 2010 - 2014 (Team size: 25+);
+**Business-minded engineer**: My economics degree means I understand your ROI, cost-optimization, and market positioning as well as your codebase.
 
-### Why me❓
+Proven track record:
+- **Siemens energy**: architected a decentralized blockchain solution for hydrogen and carbon tracking.
+- **International Red cross**: led the development of core mobile modules using react native.
+- **Collinson group**: tech lead for a global rewards system using node.js, graphql, and microservices for a team of 40+;
+- **Elephantstock**: scaled engineering team by 250% and implemented ai-enhanced search systems.
 
-- Deep understanding for upcoming technologies to solve complex business problems;
-- Expertise in writing JavaScript/TypeScript code characterized by its cleanliness, impressive performance, and potential for scalability;
-- Ability to use different design patterns like: Clean Architecture, Cloud Native Principle, CAP Theorem, Coupling and cohesion, DRY (Don't repeat yourself), AHA (Avoid Hasty Abstractions), SOLID, etc; 
-- My knowledge spreads across multiple industries, and it is not limited to technology. The additional bonus for you is my economics degree. 
-- High - skilled engineer rated by c-level management, product and project managers, developers, etc.;
-- Certified Engineer by Google, Meta, AWS;
+Technical stack:
+- **Full stack JS/TS**: next.js, react, node.js (nestjs, express), graphql, postgresql.
+- **Architecture & cloud**: aws, azure, gcp, docker, kubernetes, terraform, microservices.
+- **Generative AI**: vercel ai sdk, gemini pro, chatgpt, llm, openai api.
+- **Web3 / blockchain**: solidity, hardhat, ether.js, cosmos, polygon, binance smart chain.
 
-### Skills:
-- Nodejs: Typescript, Nestjs, Express, Hapi, etherjs, web3js, zksync-ethers;
-- React: Typescript, Nextjs, Vercel, Redux, GraphQL, React Native;
-- Cloud Development: AWS, Azure, Google Cloud and Fireabse;
-- Blockchain EVM / Ethereum: Solidity, Hardhat, Foundry;
-- Blockchain Custody Wallet: Cosmos, Algorand, Binance Smart Chain, Elrond, Polygon;
-- Machine Learning / Artificial Intelligence: Vercel AI SDK, Gemini Pro, ChatGPT, Large Language Models, Generative AI;
-- Databases: PostgreSQL, MySQL, MSSQL, Firestore, NoSQL, MongoDB, OpenSearch, Elastic Search;
-- Containers and orchestration: Docker, Kubernetes, OpenShift, Vagrant, TerraForm;          
+I have a decade of experience collaborating with International teams across London, Singapore, and the US, ensuring clear and professional communication.
 
-### Specelization
+Testimonial Quote:
+> "Dimitar won't hesitate to do things 'the right way' - from unit testing to code refactoring" — CTO, GetCraft.
 
-- March 2023 - [Decentralized Finance (DeFi)- The Future of Finance](<https://github.com/dimitardanailov/ddanailov/blob/master/certificates/Decentralized%20Finance%20(DeFi)-%20The%20Future%20of%20Finance.pdf>)
-
-### Certificates
-
-- January 2023 - [The Ultimate React Native Series: Fundamentals](https://codewithmosh.com/courses/887220/certificate)
-- January 2023 - [Introduction to Mobile Development](https://coursera.org/share/2557b7128d988426768e32870a58a085)
-- October 2022 - [Project Initiation: Starting a Successful Project.Authorized by Google](https://coursera.org/share/4bde15f65b72b7ea5624bed1f3ebebd3)
-- September 2022 - [Smart Contracts. Authorized by University at Buffalo](https://coursera.org/share/a0776edc92595b61be8f9d49ebe535f0)
-- September 2022 - [Blockchain Basics. Authorized by University at Buffalo](https://coursera.org/share/d8f9cf3cdfab46a79590f1c173d8336a)
-- September 2022 - [Containerized Applications on AWS. Authorized by AWS;](https://coursera.org/share/fddab19f00937c844b2cdf357102a365)
-- August 2022 - [Foundations of Project Management. Authorized by Google;](https://coursera.org/share/523871c5f5c5819beed1a81f64986c6f)
-- April 2019 - [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning. Authorized by DeepLearning.AI;](https://www.coursera.org/account/accomplishments/verify/D4RCDH33T3C3)
-- March 2016 - [M101JS: MongoDB for Node.js Developers. Authorized by MongoDB University;](https://university.mongodb.com/course_completion/9ca5d4d6826747d7a7a7875914a1f51e)
-- January 2016 - [Hadoop Platform and Application Framework. Authorized by University of California;](https://www.coursera.org/account/accomplishments/verify/LYRPNBF53X55)
-
-### Stack Overflow & Stack Exchange Stats
-
-<a href="https://stackoverflow.com/users/609707/d-danailov"><img src="https://stackoverflow.com/users/flair/609707.png" width="208" height="58" alt="profile for d.danailov at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for d.danailov at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-#### Github Stats 📊
-
-| [![Danailovs's github stats](https://github-readme-stats.vercel.app/api?username=dimitardanailov)](https://github.com/anuraghazra/github-readme-stats) | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimitardanailov&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+Portfolio: https://ddanailov.dev
